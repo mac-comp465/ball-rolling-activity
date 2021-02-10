@@ -8,7 +8,7 @@ Clone and generate the project files:
 
 ```
 cd yourCodeDirectory
-git clone https://github.com/mac-comp465-f18/ballrollingactivity
+git clone https://github.com/mac-comp465/ballrollingactivity
 cd ballrollingactivity
 mkdir build
 cd build
