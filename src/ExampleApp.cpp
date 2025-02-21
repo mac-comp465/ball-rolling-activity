@@ -6,7 +6,7 @@
 #include <glfontstash.h>
 
 #include <config/VRDataIndex.h>
-
+#define GLM_ENABLE_EXPERIMENTAL
 #include <glm/gtx/orthonormalize.hpp>
 
 using namespace basicgraphics;
